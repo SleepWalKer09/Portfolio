@@ -15,7 +15,7 @@ module.exports = {
 
   navLinks: [
     {
-      name: 'About',
+      name: 'About me',
       url: '/#about',
     },
     {
@@ -23,7 +23,7 @@ module.exports = {
       url: '/#jobs',
     },
     {
-      name: 'Work',
+      name: 'Portfolio',
       url: '/#projects',
     },
     {
