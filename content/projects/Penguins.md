@@ -1,13 +1,13 @@
 ---
 date: '2023-04-24'
 title: 'Penguin Prediction App'
-github: 'https://github.com/SleepWalKer09/PenguinPredictionApp'
-external: 'https://sleepwalker09-penguinpredictionapp-penguinapp-h8idwd.streamlit.app/'
+github: 'https://github.com/SleepWalKer09/PenguinPredictionApp/'
+external: 'https://sleepwalker09-penguinpredictionapp-penguinapp-h8idwd.streamlit.app'
 tech:
   - Python
   - Streamlit
   - Sklearn
-company: ''
+company: 'Personal Project'
 showInProjects: true
 ---
 
