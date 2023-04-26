@@ -69,7 +69,7 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I'm a software Engineer with over 2 years of experience developing projects using{' '}
+        I'm a Jr. Software Engineer with experience developing solutions using{' '}
         <b>Python, HTML, CSS</b> and <b>JavaScript</b>. I have knowledge of popular frameworks such
         as <b>Angular</b> and <b>FastAPI</b>. I also have comprehensive training, as well as
         hands-on experience in applied machine learning projects using <b>Computer Vision</b> and{' '}
