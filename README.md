@@ -1,6 +1,3 @@
-<div align="center">
-  <img alt="Logo" src="https://raw.githubusercontent.com/SleepWalKer09/Portfolio/tree/main/src/images/demo.png" width="100" />
-</div>
 <h1 align="center">
   Personal Portfolio
 </h1>
@@ -15,8 +12,12 @@ It was originally designed by <a href="https://github.com/bchiang7" target="_bla
   </a>
 </p>
 
-![demo](https://raw.githubusercontent.com/SleepWalKer09/Portfolio/tree/main/src/images/demo.png)
-![metrics](https://raw.githubusercontent.com/SleepWalKer09/Portfolio/tree/main/src/images/metrics.png)
+![demo](https://github.com/SleepWalKer09/Portfolio/blob/main/src/images/demo.png)
+
+<h3>Website Metrics</h3>
+
+![metrics](https://github.com/SleepWalKer09/Portfolio/blob/main/src/images/metrics.png)
+
 
 ## 🛠 Installation & Set Up
 
@@ -62,9 +63,6 @@ It was originally designed by <a href="https://github.com/bchiang7" target="_bla
    npm run serve
    ```
 
-<div align="center">
-  <img alt="Logo" src="https://raw.githubusercontent.com/SleepWalKer09/Portfolio/tree/main/src/images/metrics.png" width="100" />
-</div>
 
 ## 🎨 Color Reference
 
