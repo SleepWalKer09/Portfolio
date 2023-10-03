@@ -168,9 +168,9 @@ const About = () => {
               I’ve had the privilege of working at <a href="https://binahria.com.mx/">a startup</a>,{' '}
               <a href="http://www.informationinsight.com.mx/"> a software consultancy firm</a> and
               also I was selected for a <b>Machine Learning Engineering Internship</b> at a{' '}
-              <a href="http://www.informationinsight.com.mx/">company</a> where they build
-              AI-powered tools, currently I am focused on learning new things about artificial
-              intelligence and data science/data engineering to continue growing professionally.
+              <a href="https://www.klover.ai/">company</a> where they build AI-powered tools,
+              currently I am focused on learning new things about artificial intelligence and data
+              science/data engineering to continue growing professionally.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
