@@ -127,13 +127,25 @@ const About = () => {
 
   const skills = [
     'Python',
-    'Javascript',
     'SQL',
+    'Javascript',
     'Tensorflow',
-    'keras',
-    'PowerBI',
+    'Pytorch',
+    'Tableau',
+    'QGis',
+    'Hadoop',
+    'Git',
+    'NLP algorithms',
     'FastAPI',
     'Angular',
+  ];
+  const soft_skills = [
+    'Communication',
+    'Teamwork',
+    'Adaptability',
+    'Decision Making',
+    'Creativity and Innovation',
+    'Work Ethic',
   ];
 
   return (
@@ -154,15 +166,22 @@ const About = () => {
 
             <p>
               I’ve had the privilege of working at <a href="https://binahria.com.mx/">a startup</a>,{' '}
-              <a href="http://www.informationinsight.com.mx/"> a software consultancy firm</a> ,
-              currently I am focused on learning new things about artificial intelligence and data
-              science/ data engineering to continue growing professionally.
+              <a href="http://www.informationinsight.com.mx/"> a software consultancy firm</a> and
+              also I was selected for a <b>Machine Learning Engineering Internship</b> at a{' '}
+              <a href="http://www.informationinsight.com.mx/">company</a> where they build
+              AI-powered tools, currently I am focused on learning new things about artificial
+              intelligence and data science/data engineering to continue growing professionally.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
           </div>
           <ul className="skills-list">
             {skills && skills.map((skill, i) => <li key={i}>{skill}</li>)}
+          </ul>
+          <br></br>
+          <p>And here are some of my soft skills:</p>
+          <ul className="skills-list">
+            {soft_skills && soft_skills.map((soft_skill, i) => <li key={i}>{soft_skill}</li>)}
           </ul>
         </StyledText>
         <StyledPic>

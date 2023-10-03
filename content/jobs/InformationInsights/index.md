@@ -3,7 +3,7 @@ date: '2021-01-04'
 title: 'Fullstack Developer'
 company: 'Information Insight'
 location: 'Mexico City, Mexico'
-range: 'Jan 2021 - Present'
+range: 'Jan 2021 - September 2023'
 url: 'http://www.informationinsight.com.mx/'
 ---
 
